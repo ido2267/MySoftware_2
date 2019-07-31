@@ -1,0 +1,2 @@
+def NewButton():
+    print ("click")
